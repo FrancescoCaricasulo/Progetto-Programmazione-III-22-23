@@ -1,0 +1,1 @@
+[{"Email":{"Filename":"mail12.json","Text":"In origin:\nFrom:davide@unito.it\nTo:[paolo@unito.it]\nSubject:Oggetto\nText:Testo\nReply:\n----------\nTest risposta singola","From":"paolo@unito.it","To":["davide@unito.it"],"Deleted":true,"Subject":"Replies to: Oggetto"}}]
